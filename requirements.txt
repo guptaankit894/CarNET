@@ -1,0 +1,10 @@
+numpy
+torch==2.5.1
+cuda-toolkit==12.1
+torchvision
+scipy
+random
+os 
+time
+matplotlib
+pandas
